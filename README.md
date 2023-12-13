@@ -29,7 +29,7 @@ Before you run the code, make sure you have the following Python libraries and m
 
 ```bash
 pip install numpy pandas matplotlib seaborn scikit-fuzzy scipy scikit-learn
-
+```
 
 ### Installation
 
