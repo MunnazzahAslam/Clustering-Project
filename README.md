@@ -25,6 +25,11 @@ The following clustering algorithms were implemented and compared:
 
 ### Prerequisites
 
+Before you run the code, make sure you have the following Python libraries and modules installed:
+
+```bash
+pip install numpy pandas matplotlib seaborn scikit-fuzzy scipy scikit-learn
+
 
 ### Installation
 
