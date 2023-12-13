@@ -36,19 +36,13 @@ git clone https://github.com/MunnazzahAslam/Clustering-Project.git
 cd Clustering-Project
 ```
 
-### Run Clustering
-
-```bash
-# Provide instructions on how to run clustering on the datasets using each algorithm
-```
-
 ## Results
+![Rice Dataset Result](results/images/result-rice.png)
 
 ## Discussion
 
 ## Conclusion
 
-## Acknowledgments
 
 
 ```
