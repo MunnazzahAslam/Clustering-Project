@@ -49,6 +49,3 @@ cd Clustering-Project
 ![Results](results/images/Results%20-%20Seoul%20Bike%20Dataset.jpg)
 ![Results](results/images/Results%20-%20Electrical%20Grid%20Large%20Dataset%20.jpeg)
 
-## Discussion
-
-## Conclusion
