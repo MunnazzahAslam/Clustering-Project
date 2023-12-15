@@ -43,11 +43,11 @@ cd Clustering-Project
 
 ## Results
 ![Results](results/images/Results%20-%20Rice%20Dataset.jpg)
-![Results](results/images/Results%20-%20Online%20Shoppers%20Intention%20Da.jpg)
+![Results](results/images/Results%20-%20Online%20Shoppers%20Intention%20Da.jpeg)
 ![Results](results/images/Results%20-%20Gas%20Turbine%20Dataset.jpg)
-![Results](results/images/Results%20-%20Facebook%20Dataset.jpg)
+![Results](results/images/Results%20-%20Facebook%20Dataset.jpeg)
 ![Results](results/images/Results%20-%20Seoul%20Bike%20Dataset.jpg)
-![Results](results/images/Results%20-%20Electrical%20Grid%20Large%20Dataset%20.jpg)
+![Results](results/images/Results%20-%20Electrical%20Grid%20Large%20Dataset%20.jpeg)
 
 ## Discussion
 
